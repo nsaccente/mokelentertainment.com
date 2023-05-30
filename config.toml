@@ -18,13 +18,19 @@ enableRobotsTXT = true
 
 [params]
 
-  mainSections = ['blog']
+  mainSections = [
+    'blog',
+    'drone',
+    'film',
+    'music',
+    'video',
+  ]
 
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/logo.svg"
-    alt = "Tella Logo"
+    main = "img/logo/me_logo.png"
+    alt = "Mokel Entertainment Logo"
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
@@ -38,12 +44,12 @@ enableRobotsTXT = true
     fontawesome = true
 
   [params.homepage_meta_tags]
-    meta_description = "A Hugo Theme for OSSProject, Companies, Organization..."
-    meta_og_title = "Tella"
+    meta_description = "The official site for content from Mokel Entertainment studios."
+    meta_og_title = "Mokel Entertainment"
     meta_og_type = "website"
-    meta_og_url = "https://tella.pages.dev"
-    meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
-    meta_og_description = "A Hugo Theme for OSSProject, Companies, Organization..."
+    meta_og_url = "https://mokelentertainment.com/"
+    meta_og_image = ""
+    meta_og_description = "The official site for content from Mokel Entertainment studios."
     meta_twitter_card = "summary_large_image"
     meta_twitter_site = "@username"
     meta_twitter_creator = "@username"
@@ -51,28 +57,48 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
-    weight = 1
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/blog/"
-    weight = 2
+    weight = 10
+
+  [[menu.main]]
+    identifier = "dron"
+    name = "Drone"
+    url = "/drone/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "film"
+    name = "Film"
+    url = "/film/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "music"
+    name = "Music"
+    url = "/music/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "video"
+    name = "Video"
+    url = "/video/"
+    weight = 50
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 60
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 70
 
   # Footer Menu
   [[menu.footer]]
@@ -81,7 +107,19 @@ enableRobotsTXT = true
       weight = 1
 
   [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
+    name = "Facebook"
+    url = "https://www.facebook.com/Mokel2419"
+    pre = "<i class='icon-facebook text-2xl'></i>"
+    weight = 10
+
+[[menu.footer]]
+    name = "Discord"
+    url = "https://www.discord.com/"
+    pre = "<i class='icon-discord text-2xl'></i>"
+      weight = 20
+
+[[menu.footer]]
+    name = "Twitter"
+    url = "https://twitter.com/MokelEnter_ME"
+    pre = "<i class='icon-twitter text-2xl'></i>"
+      weight = 30

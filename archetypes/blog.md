@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Post Title"
 date: {{ .Date }}
-image: "img/default.jpg"
-draft: true
+image: "img/content/blog/default.jpg"
+draft: false
 weight: 100
-author: ""
+author: "Michael Strick"
 ---
+
