@@ -1,6 +1,13 @@
-+++
-aliases = ["dronephotography", "drones", "drone"]
-title = "Drone Photography"
-author = "Michael Strick"
-tags = ["drone"]
-+++
+---
+title: "Drone Photography"
+author: "Michael Strick"
+aliases: [
+    "dronephotography", 
+    "drones", 
+    "drone"
+]
+tags: [
+    "drone",
+]
+lang: "en"
+---

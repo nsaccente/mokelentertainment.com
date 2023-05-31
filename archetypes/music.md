@@ -1,10 +1,17 @@
 ---
 title: "Post Title"
+author: "Michael Strick"
 date: {{ .Date }}
 image: "img/content/music/default.jpg"
 draft: false
 weight: 100
-author: "Michael Strick"
+tags: [
+    "music",
+]
+keywords: [
+
+]
+lang: en
 ---
 
 {{< youtube "{{ replace .TranslationBaseName "-" " " | title }}" >}}

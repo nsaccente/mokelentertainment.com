@@ -8,7 +8,7 @@ theme = "tella"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
+hasCJKLanguage = false
 
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"

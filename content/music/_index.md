@@ -1,6 +1,12 @@
-+++
-aliases = ["piano"]
-title = "Music"
-author = "Michael Strick"
-tags = ["music"]
-+++
+---
+title: "Music"
+author: "Michael Strick"
+aliases: [
+    "music", 
+    "piano",
+]
+tags: [
+    "music",
+]
+lang: "en"
+---

@@ -1,6 +1,11 @@
-+++
-aliases = ["video"]
-title = "Video"
-author = "Michael Strick"
-tags = ["video"]
-+++
+---
+title: "Video"
+author: "Michael Strick"
+aliases: [
+    "videos",
+]
+tags: [
+    "video",
+]
+lang: "en"
+---
