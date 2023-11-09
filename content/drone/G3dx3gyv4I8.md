@@ -7,5 +7,3 @@ weight: 100
 author: "Michael Strick"
 lang: en
 ---
-
-{{< youtube "G3dx3gyv4I8" >}}

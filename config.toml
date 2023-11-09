@@ -23,6 +23,7 @@ hasCJKLanguage = false
     'drone',
     'film',
     'music',
+    'tournaments',
     'video',
   ]
 
@@ -57,6 +58,10 @@ hasCJKLanguage = false
 [menu]
 
   [[menu.main]]
+    identifier = "tournaments"
+    name = "Tournaments"
+    url = "/tournaments/"
+    weight = 9
 
   [[menu.main]]
     identifier = "blog"
@@ -65,7 +70,7 @@ hasCJKLanguage = false
     weight = 10
 
   [[menu.main]]
-    identifier = "dron"
+    identifier = "drone"
     name = "Drone"
     url = "/drone/"
     weight = 20

@@ -8,6 +8,8 @@ aliases: [
 ]
 tags: [
     "drone",
+    "Mokel Drone",
+    "Mokel Entertainment Drone",
 ]
 lang: "en"
 ---
