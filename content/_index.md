@@ -1,5 +1,3 @@
 +++
 author = "Michael Strick"
 +++
-
-{{< decap >}}
