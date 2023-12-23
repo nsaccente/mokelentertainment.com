@@ -14,7 +14,65 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Author", name: "author", widget: "string" , default: "Michael Strick" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Image", name: "image", widget: "image", default: "img/content/blog/default.jpg"}
+      - { label: "Image", name: "image", widget: "image", default: "img/content/blog/default.jpg", optional: true}
       - { label: "Weight", name: "weight", widget: "number" , default: 100 }
       - { label: "Language", name: "lang", widget: "hidden", default: "en" }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: "To embed a Youtube video, copy and paste: {{< youtube abc123 >}}' where abc123 is the video id. " }
+
+  - name: "drone" 
+    label: "Drone" 
+    folder: "content/drone" 
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" , default: "Michael Strick" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image", default: "img/content/drone/default.jpg", optional: true}
+      - { label: "Weight", name: "weight", widget: "number" , default: 100 }
+      - { label: "Language", name: "lang", widget: "hidden", default: "en" }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: "To embed a Youtube video, copy and paste: {{< youtube abc123 >}}' where abc123 is the video id. " }
+
+  - name: "film" 
+    label: "Film" 
+    folder: "content/film"
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" , default: "Michael Strick" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image", default: "img/content/film/default.jpg", optional: true}
+      - { label: "Weight", name: "weight", widget: "number" , default: 100 }
+      - { label: "Language", name: "lang", widget: "hidden", default: "en" }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: "To embed a Youtube video, copy and paste: {{< youtube abc123 >}}' where abc123 is the video id. " }
+
+  - name: "music" 
+    label: "Music" 
+    folder: "content/music"
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" , default: "Michael Strick" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image", default: "img/content/music/default.jpg", optional: true}
+      - { label: "Weight", name: "weight", widget: "number" , default: 100 }
+      - { label: "Language", name: "lang", widget: "hidden", default: "en" }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: "To embed a Youtube video, copy and paste: {{< youtube abc123 >}}' where abc123 is the video id. " }
+    
+  - name: "video" 
+    label: "Video" 
+    folder: "content/video"
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" 
+    fields: 
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" , default: "Michael Strick" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image", default: "img/content/video/default.jpg", optional: true}
+      - { label: "Weight", name: "weight", widget: "number" , default: 100 }
+      - { label: "Language", name: "lang", widget: "hidden", default: "en" }
+      - { label: 'Body', name: 'body', widget: 'markdown', hint: "To embed a Youtube video, copy and paste: {{< youtube abc123 >}}' where abc123 is the video id. " }
+    
+    
