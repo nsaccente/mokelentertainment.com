@@ -8,3 +8,5 @@ lang: en
 ---
 ### Drone Cinematography Episode 1
 Shot and Edited by Mokel Entertainment
+
+{{< youtube 4TiCOa_PLuM  >}}
