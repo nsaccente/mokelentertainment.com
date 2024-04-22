@@ -1,5 +1,5 @@
 ---
-title: WOBM Chorus Video Contest - Central Regional Highschool
+title: WOBM Chorus Video Contest
 author: Michael Strick
 date: 2023-07-03T21:06:00.000Z
 image: https://img.youtube.com/vi/P9LzmhnCRw4/0.jpg
