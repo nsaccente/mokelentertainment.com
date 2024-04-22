@@ -17,4 +17,4 @@ Jake Dufner: https://www.youtube.com/@JakeDufner
 
 GTS Wrestling: https://www.youtube.com/watch?v=U3Ic0Kjtt8Q
 
-*All Editing was done by Emily Saxton*
+*All Editing & Thumbnail was done by Emily Saxton*
