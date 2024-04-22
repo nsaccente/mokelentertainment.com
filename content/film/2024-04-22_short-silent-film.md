@@ -10,7 +10,7 @@ lang: en
 A silent film project Recorded and Edited by Mokel Entertainment while attending Digital Media Academy in Highschool
 
 ## Video Info:
-### recorded with: Canon Rebel T7
-### Editing on: Adobe Premiere Pro
+#### recorded with: Canon Rebel T7
+#### Editing on: Adobe Premiere Pro
 
 *edited, shot, and script written by Mokel Entertainment*
