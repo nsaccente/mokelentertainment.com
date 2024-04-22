@@ -11,7 +11,7 @@ lang: en
 Quaran-Teen-ed Was a Contest held by a Film Festival In Ocean County New Jersey. 
 The PSA Film was made to lift the spirits of Students and family's during the Covid-19 Pandemic, that they "are not alone" during the hard time of quarantine during Covid-19, and being isolated from the public.
 
-#  Video made with 
+##  Video made with 
 ### Camera: Oneplus 8 pro
 ### Drone Shots: DJI Mavic Air 2
 ### Edited with Sony Vegas Pro
