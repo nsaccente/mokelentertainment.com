@@ -8,7 +8,7 @@ lang: en
 ---
 # Drone Cinematography Episode 2
 {{< youtube JqGk1dca6y0  >}}
-Drone Cinematography Shot and edited by Mokel Entertainment
+#### Shot with DJI Mavic Air 2
+#### Edited with Sony Vegas Pro
 
-Shot with DJI Mavic Air 2
-Edited with Sony Vegas Pro
+*Shot and edited by Mokel Entertainment*
