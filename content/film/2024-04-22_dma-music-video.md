@@ -1,8 +1,8 @@
 ---
 title: DMA Music Video
 author: Michael Strick
-date: 2024-04-22T02:27:00.000Z
-image: img/content/film/default.jpg
+date: 2022-03-10T22:27:00.000Z
+image: https://img.youtube.com/vi/mvJxr_gWQfk/0.jpg
 weight: 100
 lang: en
 ---
