@@ -8,6 +8,6 @@ lang: en
 ---
 {{< youtube cttagM721h0  >}}
 
-This video was shot for a Digital Media Production project. This project was aimed to practice Dialog in Film Making.
+This video was shot for a Digital Media Production project. This project was aimed to practice character Dialog in Film Making.
 
 *Shot and Edited by Mokel Entertainment*
