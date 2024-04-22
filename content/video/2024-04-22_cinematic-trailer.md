@@ -1,7 +1,7 @@
 ---
 title: Cinematic Trailer
 author: Michael Strick
-date: 2024-04-22T15:20:00.000Z
+date: 2021-04-23T11:20:00.000Z
 image: https://img.youtube.com/vi/WdVcFbY99cc/0.jpg
 weight: 100
 lang: en
