@@ -10,7 +10,7 @@ This video was all Shot and edited By Mokel Entertainment for Central Regional H
 
 {{< youtube P9LzmhnCRw4  >}}
 
-# WOBM Christmas Chorus Contest
+## WOBM Christmas Chorus Contest
 This Video Was Recorded by Michael Strick, for the popular Toms River, New Jersey radio station, WOBM. 
 
 WOBM was Hosting a Christmas Contest for local high schools chorus students, and Music/chorus Teacher Mrs. Moore asked Digital Media Academy Student Michael, to shoot, and edit, a video as an entry to WOBM's Christmas Contest!
