@@ -9,7 +9,7 @@ lang: en
 {{< youtube XhDaiqMzNkQ  >}}
 
 # Cameraman
-I had the pleasure to be the cameraman for this intense drama between Jake Dufner and James Cinatra "Jimmy Controversy" From GTS Wrestling!
+I had the pleasure of being the cameraman for this intense drama between Jake Dufner and James Cinatra "Jimmy Controversy" From GTS Wrestling!
 
 Emily Saxton : https://www.youtube.com/@EmilySaxton
 
