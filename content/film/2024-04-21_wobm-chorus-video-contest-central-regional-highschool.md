@@ -19,6 +19,7 @@ WOBM was Hosting a Christmas Contest for local high schools chorus students, and
 ## Video was shot with:
 ### Cam A,B,C = Canon Rebel T7
 ### 3x RODE NTG5'S
+### Drone Footage: DJI Mavic Air 2
 #### Edited with Sony Vegas Pro 
 
 All footage, sound, and editing was done by Mokel Entertainment
