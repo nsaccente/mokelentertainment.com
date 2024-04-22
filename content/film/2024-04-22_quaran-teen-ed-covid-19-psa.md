@@ -16,4 +16,4 @@ The PSA Film was made to lift the spirits of Students and family's during the Co
 #### Drone Shots: DJI Mavic Air 2
 #### Edited with Sony Vegas Pro
 
-##### All Footage, sound, and editing done by Mokel Entertainment
+*All Footage, sound, and editing done by Mokel Entertainment*
