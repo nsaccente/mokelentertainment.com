@@ -1,5 +1,5 @@
 ---
-title: Short Silent Film
+title: Comedic Short Silent Film
 author: Michael Strick
 date: 2018-02-18T02:12:00.000Z
 image: https://img.youtube.com/vi/96QwRlpBHFM/0.jpg
