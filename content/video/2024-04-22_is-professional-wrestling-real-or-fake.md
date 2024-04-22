@@ -9,10 +9,12 @@ lang: en
 {{< youtube LKYaaFruK9Q  >}}
 
 ## Cameraman
-I had the Pleasure to be able to be one of the cameramen for my friend Emily Saxton (Wide shots) alongside Jake Dufner! In this awesome video featuring Grim from GTS Wrestling! 
+I had the Pleasure to be able to be one of the 2 cameramen for my friend Emily Saxton (Wide shots) alongside Jake Dufner! In this awesome video featuring Grim from GTS Wrestling! 
 
 Emily Saxton : https://www.youtube.com/@EmilySaxton
 
 Jake Dufner: https://www.youtube.com/@JakeDufner
 
 GTS Wrestling: https://www.youtube.com/watch?v=U3Ic0Kjtt8Q
+
+*All Editing was done by Emily Saxton*
