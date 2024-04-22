@@ -7,6 +7,9 @@ weight: 100
 lang: en
 ---
 ### Drone Cinematography Episode 1
-Shot and Edited by Mokel Entertainment
-
 {{< youtube 4TiCOa_PLuM  >}}
+
+Drone Cinematography Shot and edited by Mokel Entertainment
+
+#### Shot with DJI Mavic Air 2
+#### Edited with Sony Vegas Pro
