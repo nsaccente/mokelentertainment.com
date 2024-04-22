@@ -1,7 +1,7 @@
 ---
 title: How it started - Piano videos
 author: Michael Strick
-date: 2024-04-22T15:26:00.000Z
+date: 2017-04-21T11:26:00.000Z
 image: https://img.youtube.com/vi/Se9b1QkzoDg/0.jpg
 weight: 100
 lang: en
