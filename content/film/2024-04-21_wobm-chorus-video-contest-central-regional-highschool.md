@@ -22,7 +22,7 @@ WOBM was Hosting a Christmas Contest for local high schools chorus students, and
 ##### Drone Footage: DJI Mavic Air 2
 ##### Edited with Sony Vegas Pro 
 
-All footage, sound, and editing was done by Mokel Entertainment
+*All footage, sound, and editing was done by Mokel Entertainment*
 
 
 
