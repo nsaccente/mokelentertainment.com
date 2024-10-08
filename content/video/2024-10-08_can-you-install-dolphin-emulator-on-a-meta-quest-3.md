@@ -2,7 +2,7 @@
 title: Can you Install Dolphin Emulator on a Meta Quest 3?
 author: Michael Strick
 date: 2024-10-07T21:10:00.000Z
-image: /static/img/content`/720p-5wfq1i9etj969c3k-3-.jpg
+image: https://i9.ytimg.com/vi/OEesNjQCmdA/mqdefault.jpg?sqp=CJCIkrgG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBYgXCh_MA8%3D&rs=AOn4CLBwjLDbrM8kQDUNqVmMIcqf1NWkJw&retry=2
 weight: 100
 lang: en
 ---
